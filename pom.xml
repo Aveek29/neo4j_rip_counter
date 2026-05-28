@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.aveek.com</groupId>
-    <artifactId>project1</artifactId>
+    <artifactId>neo4j-trip-counter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>project1</name>
-    <description>Neo4j Spring MVC REST API</description>
+    <name>neo4j-trip-counter</name>
+    <description>Neo4j trip counter REST API</description>
 
     <properties>
         <java.version>1.8</java.version>

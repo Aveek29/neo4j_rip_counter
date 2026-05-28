@@ -1,4 +1,4 @@
-# project1
+# neo4j-trip-counter
 
 REST API that returns the total node count from a Neo4j database.
 

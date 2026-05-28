@@ -1,4 +1,4 @@
-package com.aveek.com.project1;
+package com.aveek.com.neo4jtripcounter;
 
 import com.graphaware.test.integration.GraphAwareApiTest;
 import org.apache.http.HttpStatus;
@@ -8,9 +8,6 @@ import org.neo4j.graphdb.Transaction;
 import static com.graphaware.test.util.TestUtils.get;
 import static org.junit.Assert.assertEquals;
 
-/**
- * {@link GraphAwareApiTest} for {@link NodeCountApi}.
- */
 public class NodeCountApiTest extends GraphAwareApiTest {
 
     @Test
