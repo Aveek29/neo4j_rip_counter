@@ -1,9 +1,9 @@
 # project1
 
-REST API that counts nodes in a Neo4j graph database. Built with Spring MVC and GraphAware Framework.
+REST API that returns the total node count from a Neo4j database.
 
 ```
-GET /count  →  "42"
+GET /count  →  42
 ```
 
 ```
